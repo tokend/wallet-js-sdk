@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - "0.10"
+script:
+  - zuul test/wallet.js && npm run-script coverage
+after_success:
+  - gulp submit-coverage

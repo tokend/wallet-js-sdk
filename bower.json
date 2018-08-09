@@ -1,0 +1,14 @@
+{
+  "name": "stellar-wallet-js-sdk",
+  "version": "0.0.0",
+  "private": false,
+  "main": "build/stellar-wallet.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "ignore": [
+    "/lib",
+    "/test",
+    "/index.js",
+    "/gulpfile.js"
+  ]
+}
