@@ -3,7 +3,7 @@
     "version": "0.1.2",
     "private": false,
     "dependencies": {
-        "tokend-js-base": "git+ssh://git@github.com:tokend/js-base.git",
+        "tokend-js-base": "https://github.com/tokend/js-base.git",
         "axios": "^0.16.0",
         "bluebird": "^2.3.11",
         "bs58": "~2.0.0",
