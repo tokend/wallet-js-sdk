@@ -34,7 +34,7 @@ StellarWallet.createWallet({
   // keychainData: must be a string. If you want to send JSON stringify it.
   keychainData: "Your keychain data.",
   // If omitted, it will be fetched from stellar-wallet server
-  kdfParams: { 
+  kdfParams: {
     algorithm: 'scrypt',
     bits: 256,
     n: Math.pow(2,16),
