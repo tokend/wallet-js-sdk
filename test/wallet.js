@@ -3,7 +3,7 @@
 var _ = require('lodash');
 var chai = require("chai");
 var chaiAsPromised = require("chai-as-promised");
-var Keypair = require("tokend-js-base").Keypair;
+var Keypair = require("@tokend/js-sdk").base.Keypair;
 
 var StellarWallet;
 if (typeof window === 'undefined') {
