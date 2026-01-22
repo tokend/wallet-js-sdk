@@ -12,7 +12,7 @@
         "ripemd160": "0.2.1",
         "sjcl": "git+https://github.com/stellar/sjcl.git",
         "sjcl-scrypt": "git+https://github.com/stellar/sjcl-scrypt.git",
-        "superagent": "0.20.0",
+        "superagent": "10.3.0",
         "thirty-two": "0.0.2",
         "tweetnacl": "0.11.2"
     },
@@ -22,7 +22,7 @@
         "body-parser": "1.18.3",
         "express": "4.16.3",
         "ghooks": "0.2.5",
-        "gulp": "3.6.2",
+        "gulp": "3.9.1",
         "gulp-coveralls": "0.1.4",
         "gulp-git": "0.5.6",
         "gulp-rimraf": "0.1.1",
