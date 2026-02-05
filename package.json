@@ -22,7 +22,7 @@
         "body-parser": "1.18.3",
         "express": "4.16.3",
         "ghooks": "0.2.5",
-        "gulp": "3.6.2",
+        "gulp": "5.0.1",
         "gulp-coveralls": "0.1.4",
         "gulp-git": "0.5.6",
         "gulp-rimraf": "0.1.1",
