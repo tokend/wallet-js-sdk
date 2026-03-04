@@ -36,7 +36,7 @@
         "opn": "1.0.2",
         "run-sequence": "0.3.7",
         "webpack": "1.4.15",
-        "zuul": "1.16.5"
+        "zuul": "3.12.0"
     },
     "engines": {
         "node": ">=0.10.0"
